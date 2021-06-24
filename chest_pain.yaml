@@ -1,0 +1,22 @@
+﻿categories:
+- chest_pain
+conversations:
+- - Hello.
+  - Hello, what seems to be the problem?
+- - I have chest pain.
+  - How did the pain begin? What were you doing?
+- - I was resting, and suddenly felt a stinging sensation around my chest region.
+  - Did you workout before? Almost half of the ischemic conditions occur after physical activity, emotional stress, or after consumption of alcoholic beverages.
+- - 'No doctor, I did not work out or consume any alcoholic beverage.'
+  - Have you previously ever had the same sort of pain?
+- - 'No, I have not.'
+  - Can you please describe the pain and how long has it been bothering you?
+- - My chest feels constricted as if I am drowning. It has been approximately 30 minutes since I felt the pain. Sometimes it is a stabbing pain, other times it subsides, and begins anew.
+  - 'Tell me, exactly where it hurts?'
+- - It’s on my sternum, then it expands on both sides of my chest mostly on the left side.
+  - Have you used any medication?
+- - 'Nitro-glycerine, but I don’t think it had any effect.'
+  - Do you have any other problems? You appear very pale to me right now.
+- - 'I have a hard time catching my breath sometimes, feels like I am choking.'
+  - I will prescribe you some medicines for temporary relief, but I recommend you to get an ECG done, and visit me immediately. 
+- - 'Thank you, doctor, I will soon visit you with my ECG reports.'
